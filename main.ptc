@@ -1,0 +1,60 @@
+\contentsline {chapter}{声\hspace {2em}明}{3}{section*.3}%
+\contentsline {chapter}{\numberline {第1章}论文主要部分的写法}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}论文的语言及表述}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}论文题目的写法}{1}{section.1.2}%
+\contentsline {section}{\numberline {1.3}摘要的写法}{2}{section.1.3}%
+\contentsline {section}{\numberline {1.4}引言的写法}{2}{section.1.4}%
+\contentsline {section}{\numberline {1.5}正文的写法}{2}{section.1.5}%
+\contentsline {section}{\numberline {1.6}结论的写法}{3}{section.1.6}%
+\contentsline {chapter}{\numberline {第2章}图表示例}{4}{chapter.2}%
+\contentsline {section}{\numberline {2.1}插图}{4}{section.2.1}%
+\contentsline {section}{\numberline {2.2}表格}{4}{section.2.2}%
+\contentsline {section}{\numberline {2.3}算法}{6}{section.2.3}%
+\contentsline {chapter}{\numberline {第3章}数学符号和公式}{7}{chapter.3}%
+\contentsline {section}{\numberline {3.1}数学符号}{7}{section.3.1}%
+\contentsline {section}{\numberline {3.2}数学公式}{8}{section.3.2}%
+\contentsline {section}{\numberline {3.3}数学定理}{8}{section.3.3}%
+\contentsline {chapter}{\numberline {第4章}引用文献的标注}{9}{chapter.4}%
+\contentsline {section}{\numberline {4.1}顺序编码制}{9}{section.4.1}%
+\contentsline {section}{\numberline {4.2}著者-出版年制}{9}{section.4.2}%
+\contentsline {chapter}{插图索引}{11}{section*.17}%
+\contentsline {chapter}{表格索引}{12}{section*.19}%
+\contentsline {chapter}{参考文献}{13}{section*.21}%
+\contentsline {chapter}{\numberline {附录 A}外文资料的调研阅读报告}{15}{appendix.A}%
+\ttl@change@i {\@ne }{section}{\z@ }{}{\contentspush {\thecontentslabel \quad }}{}{\thu@leaders \thecontentspage }\relax 
+\ttl@change@v {section}{}{}{}\relax 
+\ttl@change@i {\@ne }{subsection}{1em}{}{\contentspush {\thecontentslabel \quad }}{}{\thu@leaders \thecontentspage }\relax 
+\ttl@change@v {subsection}{}{}{}\relax 
+\ttl@change@i {\@ne }{subsubsection}{2em}{}{\contentspush {\thecontentslabel \quad }}{}{\thu@leaders \thecontentspage }\relax 
+\ttl@change@v {subsubsection}{}{}{}\relax 
+\ttl@starttoc {survey@1}
+\contentsline {section}{\numberline {A.1}Figures and Tables}{15}{section.A.1}%
+\contentsline {subsection}{\numberline {A.1.1}Figures}{15}{subsection.A.1.1}%
+\contentsline {subsection}{\numberline {A.1.2}Tables}{16}{subsection.A.1.2}%
+\contentsline {section}{\numberline {A.2}Equations}{16}{section.A.2}%
+\contentsline {section}{\numberline {A.3}Citations}{16}{section.A.3}%
+\ttl@stoptoc {survey@1}
+\contentsline {chapter}{\numberline {附录 B}外文资料的书面翻译}{17}{appendix.B}%
+\ttl@change@i {\@ne }{section}{\z@ }{}{\contentspush {\thecontentslabel \quad }}{}{\thu@leaders \thecontentspage }\relax 
+\ttl@change@v {section}{}{}{}\relax 
+\ttl@change@i {\@ne }{subsection}{1em}{}{\contentspush {\thecontentslabel \quad }}{}{\thu@leaders \thecontentspage }\relax 
+\ttl@change@v {subsection}{}{}{}\relax 
+\ttl@change@i {\@ne }{subsubsection}{2em}{}{\contentspush {\thecontentslabel \quad }}{}{\thu@leaders \thecontentspage }\relax 
+\ttl@change@v {subsubsection}{}{}{}\relax 
+\ttl@starttoc {translation@1}
+\contentsline {section}{\numberline {B.1}图表示例}{17}{section.B.1}%
+\contentsline {subsection}{\numberline {B.1.1}图}{17}{subsection.B.1.1}%
+\contentsline {subsection}{\numberline {B.1.2}表格}{17}{subsection.B.1.2}%
+\contentsline {section}{\numberline {B.2}数学公式}{17}{section.B.2}%
+\contentsline {section}{\numberline {B.3}文献引用}{18}{section.B.3}%
+\contentsline {section}{\numberline {B.A}附录}{18}{section.A}%
+\ttl@stoptoc {translation@1}
+\contentsline {chapter}{\numberline {附录 C}补充内容}{19}{appendix.C}%
+\contentsline {section}{\numberline {C.1}插图}{19}{section.C.1}%
+\contentsline {section}{\numberline {C.2}表格}{19}{section.C.2}%
+\contentsline {section}{\numberline {C.3}数学表达式}{19}{section.C.3}%
+\contentsline {section}{\numberline {C.4}文献引用}{20}{section.C.4}%
+\contentsline {section}{参考文献}{20}{section*.34}%
+\contentsline {chapter}{致\hskip 2em\relax 谢}{21}{section*.35}%
+\contentsline {chapter}{声\hspace {2em}明}{22}{section*.37}%
+\contentsfinish 
