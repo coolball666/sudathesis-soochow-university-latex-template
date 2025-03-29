@@ -3416,7 +3416,7 @@
         aftername  = \quad,
       },
       }%
-    \thu@chapter*[]{\thu@title\\\thu@abstract@name}%
+    \thu@chapter*[]{\thu@title\\\vspace{\baselineskip}\thu@abstract@name}%
     %%% TODO:以上为额外添加
   \fi
 }{%
@@ -3450,7 +3450,7 @@
         aftername  = \quad,
       },
       }%
-    \thu@chapter*[]{\thu@title@en\\\thu@abstract@name@en}%
+    \thu@chapter*[]{\thu@title@en\\\vspace{\baselineskip}\thu@abstract@name@en}%
     %%% TODO以上为额外添加
   \fi
 }{%
