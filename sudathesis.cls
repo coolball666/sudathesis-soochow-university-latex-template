@@ -1986,28 +1986,28 @@
   \ifthu@degree@bachelor
     \ctexset{%
       chapter = {
-        format     = \centering\sffamily\zititime\fontsize{15bp}{29.25bp}\selectfont,
+        format     = \centering\bfseries\rmfamily\zititime\fontsize{15bp}{29.25bp}\selectfont,
         aftername  = \quad,
-        beforeskip = 29.25bp,
-        afterskip  = 29.25bp,
+        beforeskip = \baselineskip,
+        afterskip  = \baselineskip,
       },
       section = {
-        format     = \sffamily\zititime\fontsize{14bp}{27.3bp}\selectfont,
+        format     = \bfseries\rmfamily\zititime\fontsize{15bp}{29.25bp}\selectfont,
         aftername  = \quad,
-        beforeskip = 18bp,
-        afterskip  = 18bp,
+        beforeskip = \baselineskip,
+        afterskip  = \baselineskip,
       },
       subsection = {
-        format     = \sffamily\zititime\fontsize{12bp}{23.4bp}\selectfont,
+        format     = \bfseries\rmfamily\zititime\fontsize{12bp}{23.4bp}\selectfont,
         aftername  = \quad,
-        beforeskip = 12bp,
-        afterskip  = 12bp,
+        beforeskip = \baselineskip,
+        afterskip  = \baselineskip,
       },
       subsubsection = {
-        format     = \sffamily\zititime\fontsize{12bp}{23.4bp}\selectfont,
+        format     = \bfseries\rmfamily\zititime\fontsize{12bp}{23.4bp}\selectfont,
         aftername  = \quad,
-        beforeskip = 12bp,
-        afterskip  = 12bp,
+        beforeskip = \baselineskip,
+        afterskip  = \baselineskip,
       },
     }%
     \ifthu@main@language@chinese
